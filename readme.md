@@ -76,7 +76,6 @@ This guide includes modular tutorials categorized by LangChain components:
 | **ChatModels**       | Work with chat-optimized language models (like OpenAI's ChatGPT).           |
 | **Chains**           | Compose sequences of calls (chains) to models and tools.                    |
 | **EmbeddingModels**  | Generate and use embeddings for vector search and retrieval.                |
-| **LLMs**             | Integrate with LLM providers like OpenAI, Cohere, or local models.          |
 | **OutputParsers**    | Parse and format outputs into structured formats (e.g., JSON).              |
 | **Prompts**          | Craft and manage prompt templates for dynamic use cases.                    |
 | **RAG**              | Build Retrieval-Augmented Generation pipelines with vector stores.          |
