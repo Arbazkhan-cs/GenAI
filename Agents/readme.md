@@ -12,7 +12,7 @@ LangChain Agents allow LLMs to **dynamically choose tools, APIs, or chains** bas
 |-------------------------|-----------------------------------------------------------------------------|
 | `1_tools.ipynb`         | Introduces LangChain `Tool` abstraction and how to create custom tools      |
 | `2_tool_calling.ipynb`  | Demonstrates how an LLM agent can call tools based on the user's intent     |
-|`upcomming ...`          | upcommin (Agent, AgentExecutor, etc)                                        |
+|`upcomming ...`          | upcomming (Agent, AgentExecutor, etc)                                        |
 
 ---
 
