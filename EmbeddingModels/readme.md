@@ -101,7 +101,7 @@ Sample Values: [0.012, -0.090, 0.056, ...]
 ## 🧑‍💻 Author
 
 **Arbaz Khan**
-[GitHub](https://github.com/Arbazkhan-cs) • [LinkedIn](https://www.linkedin.com/in/arbazkhan/)
+[GitHub](https://github.com/Arbazkhan-cs) • [LinkedIn](https://www.linkedin.com/in/arbazkhan-cs/)
 
 ---
 
